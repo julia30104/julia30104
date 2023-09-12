@@ -2,7 +2,7 @@
 
  ✨ bom vindas ao meu perfil ✨ 
 
- - Estou estudando na Alura
+ - Estou estudando na Alura (https://www.alura.com.br)
  - Estou me desenvolvendo na linguagem JavaScript
  - Utilizo esse espaço para a organização e compartilhamento dos meus projetos desenvolvidos
    
@@ -11,4 +11,4 @@ stella.julia@escola.pr.gov.br
 
 stella.julia@
 
-![](https://media.tenor.com/SzNcWJPQbBIAAAAd/anime-ayanokoji.gif)
+![](https://media.tenor.com/6dlNDTGcbqYAAAAC/anime.gif)
